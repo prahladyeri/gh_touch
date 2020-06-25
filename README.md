@@ -1,5 +1,5 @@
 ```
-gh_touch is a Placeholder repository to keep your github activity going.
+gh_touch is a placeholder repository to keep your github activity going.
 
 It contains just three files:
 
