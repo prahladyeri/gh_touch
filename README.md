@@ -1,7 +1,7 @@
 ```
-gh_touch is a Placeholder repository to keep your github activity going
+gh_touch is a Placeholder repository to keep your github activity going.
 
-This repo contains just three files:
+It contains just three files:
 
 [1] run.dat		# simple text file
 [2] run.py 		# program that fills above text file with random bytes
